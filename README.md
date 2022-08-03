@@ -72,4 +72,4 @@
 
 
 ## Summary
-> Based n the results shiwn above, Easy Ensemble AdaBoost Classifier was the most accurate model that we used. All metrics that were listed were the highest using that model. For the most accurate prediction, I would use Easy Ensemble AdaBoost Classifier based on the obove metrics. 
+> Based n the results shiwn above, Easy Ensemble AdaBoost Classifier was the most accurate model that we used. All metrics that were listed were the highest using that model. For the most accurate prediction, I would use Easy Ensemble AdaBoost Classifier based on the above metrics. 
